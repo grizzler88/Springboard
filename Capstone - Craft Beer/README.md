@@ -1,4 +1,4 @@
-Capstone Project: Craft Beer Segmentation 
+# Capstone Project: Craft Beer Segmentation 
 
 I took data on over 1.5m beer reviews and applied clustering (K-means) to identify beer segments based on review ratings, volume of reviews and recency of review. 
 
