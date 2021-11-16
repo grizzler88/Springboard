@@ -1,0 +1,6 @@
+Craft Beer Segmentation 
+
+Gathered data on 1.59m beer reviews to develop a model to help small craft breweries identify which beers they should produce.
+Applied K-means cluster analysis to identify four beer types / segments based on review ratings, volume of reviews and recency of review. 
+Applied oversampling (using SMOTE) to address imbalanced dataset before running classification models (Logistic, RandomForest, Gradient Boosting) with aim of predicting the likelihood of beer being in particular segment of interest to brewery.
+Final recommendation based on analysis, segmentation and modelling was to develop a Seasonal Wild Ale.
